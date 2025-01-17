@@ -7,8 +7,14 @@ This project is part of the Full Stack 2 Bootcamp. It is a Spring Boot applicati
 - Java 17
 - Spring Boot 3.4.1
 - Spring Data JPA
+- Spring Boot DevTools
+- Spring Boot Starter Validation
+- Spring Boot Starter Web
+- Spring Boot Starter Test(Has not been implemented yet)
 - H2 Database
 - Lombok
+- Maven Compiler Plugin
+- Spring Boot Maven Plugin
 - Swagger UI (Springdoc OpenAPI)
 
 ## Getting Started
