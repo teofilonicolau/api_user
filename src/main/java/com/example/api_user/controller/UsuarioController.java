@@ -12,7 +12,7 @@ public class UsuarioController {
     private UsuarioService usuarioService;
 
     @PostMapping
-    public Usuario criarUsuarioComPerfil(@RequestParam String nome, @RequestParam String bio) {
-        return usuarioService.criarUsuarioComPerfil(nome, bio);
+    public Usuario criarUsuarioComPerfil(@RequestBody Usuario usuario) {
+        return usuarioService.criarUsuarioComPerfil(usuario.getNome(), usuario.getProfile().getBio());
     }
 }
