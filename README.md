@@ -1,6 +1,8 @@
 # API User
 
 This project is part of the Full Stack 2 Bootcamp. It is a Spring Boot application designed to manage users, courses, students, and other entities, demonstrating a complete CRUD operation setup.
+![image](https://github.com/user-attachments/assets/e6c4b4dc-48b1-4c7c-9304-bd7ed043f0e4)
+
 
 ## Technologies Used
 
@@ -18,6 +20,16 @@ This project is part of the Full Stack 2 Bootcamp. It is a Spring Boot applicati
 - Swagger UI (Springdoc OpenAPI)
 
 ## Getting Started
+![image](https://github.com/user-attachments/assets/f5b85eb9-ce9f-40e9-99d3-93c0362b2d42)
+![image](https://github.com/user-attachments/assets/7251b945-6362-4ea2-923c-138c7ab26cdc)
+![image](https://github.com/user-attachments/assets/5c832dbc-0a13-40a7-bba7-9be7619de8c2)
+![image](https://github.com/user-attachments/assets/f4c5b70d-a4a8-462a-8c9e-c75dcc8f1920)
+![image](https://github.com/user-attachments/assets/726996c6-db0f-4e1c-93a7-69876c67780e)
+
+
+
+
+
 
 ### Prerequisites
 
